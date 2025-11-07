@@ -8,7 +8,7 @@ import {
     Input,
     Switch,
 } from "@material-tailwind/react";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import { GroupsApi } from "../../../utils/Controllers/GroupsApi";
 import EditIcon from "../../UI/Icons/EditIcon";
 
