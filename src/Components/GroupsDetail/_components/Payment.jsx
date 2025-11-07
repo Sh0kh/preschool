@@ -10,7 +10,7 @@ import {
     Option,
 } from "@material-tailwind/react";
 import { PaymentApi } from "../../../utils/Controllers/Payment";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import { useParams } from "react-router-dom";
 
 export default function Payment({ studentData, groupData, refresh }) {

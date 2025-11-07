@@ -8,7 +8,7 @@ import {
     Input,
 } from "@material-tailwind/react";
 import { TeacherApi } from "../../../utils/Controllers/TeacherApi";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 
 export default function Create({ refresh }) {
     const [open, setOpen] = useState(false);

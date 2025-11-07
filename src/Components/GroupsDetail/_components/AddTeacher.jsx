@@ -7,9 +7,8 @@ import {
     DialogFooter,
     Typography,
 } from "@material-tailwind/react";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import { TeacherApi } from "../../../utils/Controllers/TeacherApi";
-import { GroupsApi } from "../../../utils/Controllers/GroupsApi";
 import { Plus } from "lucide-react";
 import { useParams } from "react-router-dom";
 

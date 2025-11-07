@@ -9,7 +9,7 @@ import {
     Switch,
 } from "@material-tailwind/react";
 import { ChildrenApi } from "../../../utils/Controllers/ChildrenApi";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 
 export default function Create({ refresh }) {
     const [open, setOpen] = useState(false);

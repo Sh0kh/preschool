@@ -7,7 +7,7 @@ import {
     DialogFooter,
     Typography,
 } from "@material-tailwind/react";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import DeleteIcon from "../../UI/Icons/DeleteIcon";
 import { TeacherApi } from "../../../utils/Controllers/TeacherApi";
 

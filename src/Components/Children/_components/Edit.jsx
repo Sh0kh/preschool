@@ -9,7 +9,7 @@ import {
     Switch,
 } from "@material-tailwind/react";
 import { ChildrenApi } from "../../../utils/Controllers/ChildrenApi";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import EditIcon from "../../UI/Icons/EditIcon";
 
 export default function Edit({ editData, refresh }) {

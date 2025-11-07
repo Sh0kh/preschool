@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Button, Card, CardBody, Typography } from "@material-tailwind/react";
-import { Alert } from "../../../../../motor/src/utils/Alert";
+import { Alert } from "../../../utils/Alert";
 import { AttendenceApi } from "../../../utils/Controllers/Attendance";
 
 export default function Attendance({ data }) {
